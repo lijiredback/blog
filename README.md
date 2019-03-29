@@ -3,6 +3,10 @@
 #### JavaScript 进阶系列
 + [JS进阶(1) —— 人人都能懂的构造函数](https://github.com/pantone44/blog/issues/3)
 
+#### 2019/3
++ [重读《深入理解ES6》：模板字符串](https://github.com/pantone44/blog/issues/5)
++ [重读《深入理解ES6》：块级作用域](https://github.com/pantone44/blog/issues/4)
+
 #### 2018/3
 + [JS进阶(1) —— 人人都能懂的构造函数](https://github.com/pantone44/blog/issues/3)
 
