@@ -1,9 +1,6 @@
 ![image](https://github.com/pantone44/blog/blob/master/img/IMG_4430.jpg)
 
-## JavaScript 进阶系列
-+ [JS进阶(3)：人人都能懂的继承](https://github.com/pantone44/blog/issues/10)
-+ [JS进阶(2)：人人都能懂的原型对象](https://github.com/pantone44/blog/issues/9)
-+ [JS进阶(1) —— 人人都能懂的构造函数](https://github.com/pantone44/blog/issues/3)
+## JavaScript 中的数据类型
 
 ## 2019/4
 + ["instanceof 的原理是什么"？大声告诉面试官，我知道！](https://github.com/pantone44/blog/issues/8)
