@@ -1,6 +1,14 @@
 ![image](https://github.com/pantone44/blog/blob/master/img/IMG_4430.jpg)
 
 ## JavaScript 中的数据类型
++ [数据类型(1)：数据类型与内存空间](https://github.com/lijiredback/blog/issues/13)
+
+---
+
+## 时间线 
+
+## 2019/8
++ [数据类型(1)：数据类型与内存空间](https://github.com/lijiredback/blog/issues/13)
 
 ## 2019/4
 + ["instanceof 的原理是什么"？大声告诉面试官，我知道！](https://github.com/pantone44/blog/issues/8)
