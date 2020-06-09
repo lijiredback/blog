@@ -4,6 +4,7 @@
 
 ### 计算机网络
 + [搞定 HTTP 协议 (一)：HTTP 与网络基础](https://github.com/lijiredback/blog/issues/14)
++ [搞定 HTTP 协议 (二)：HTTP 协议总览](https://github.com/lijiredback/blog/issues/16)
 
 ### 译文
 
@@ -16,6 +17,7 @@
 ### 2020/6
 + [搞定 HTTP 协议 (一)：HTTP 与网络基础](https://github.com/lijiredback/blog/issues/14)
 + [【译】5 个你需要知道的 JavaScript 小技巧](https://github.com/lijiredback/blog/issues/15)
++ [搞定 HTTP 协议 (二)：HTTP 协议总览](https://github.com/lijiredback/blog/issues/16)
 
 ### 2019/8
 + [数据类型(1)：数据类型与内存空间](https://github.com/lijiredback/blog/issues/13)
