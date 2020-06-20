@@ -5,6 +5,7 @@
 ### 计算机网络
 + [搞定 HTTP 协议 (一)：HTTP 与网络基础](https://github.com/lijiredback/blog/issues/14)
 + [搞定 HTTP 协议 (二)：HTTP 协议总览](https://github.com/lijiredback/blog/issues/16)
++ [搞定 HTTP 协议（三）：如何严谨地描述一个 HTTP 报文？](https://github.com/lijiredback/blog/issues/17)
 
 ### 译文
 
