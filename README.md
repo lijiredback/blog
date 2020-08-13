@@ -11,9 +11,17 @@
 
 + [【译】5 个你需要知道的 JavaScript 小技巧](https://github.com/lijiredback/blog/issues/15)
 
++ [译】理解 JavaScript 异步编程 ](https://github.com/lijiredback/blog/issues/18)
+
 ---
 
 ## 时间线 
+
+### 2020/8
++ [译】理解 JavaScript 异步编程 ](https://github.com/lijiredback/blog/issues/18)
+
+### 2020/7
++ [搞定 HTTP 协议（三）：如何严谨地描述一个 HTTP 报文？](https://github.com/lijiredback/blog/issues/17)
 
 ### 2020/6
 + [搞定 HTTP 协议 (一)：HTTP 与网络基础](https://github.com/lijiredback/blog/issues/14)
