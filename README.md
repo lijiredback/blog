@@ -12,12 +12,15 @@
 + [【译】5 个你需要知道的 JavaScript 小技巧](https://github.com/lijiredback/blog/issues/15)
 + [【译】理解 JavaScript 异步编程 ](https://github.com/lijiredback/blog/issues/18)
 + [【译】来吧，让你的 console.log() 输出更漂亮一点](https://github.com/lijiredback/blog/issues/19)
++ [【译】10 个 JavaScript 简洁代码小技巧（文末彩蛋）](https://github.com/lijiredback/blog/issues/20)
 
 ---
 
 ## 时间线 
 
 ### 2021/1
++ [【译】10 个 JavaScript 简洁代码小技巧（文末彩蛋）](https://github.com/lijiredback/blog/issues/20)
+
 + [【译】来吧，让你的 console.log() 输出更漂亮一点](https://github.com/lijiredback/blog/issues/19)
 
 ### 2020/8
