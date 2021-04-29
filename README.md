@@ -58,9 +58,3 @@
 + [我终于搞清楚了伪类和伪元素！](https://github.com/pantone44/blog/issues/2)
 
 + [如何实现一个平行四边形的导航栏](https://github.com/pantone44/blog/issues/1)
-
-## 公众号信息
-
-公众号：零幺小馆(lingyaoxiaoguan)，欢迎关注。
-
-![image](https://user-gold-cdn.xitu.io/2020/6/2/17272a909e0f1458?w=344&h=344&f=jpeg&s=9222)
